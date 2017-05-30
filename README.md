@@ -13,5 +13,4 @@ treta typotiq
 *.tlb
 *.tli
 
-
-ehiwpgperhgergheth
+another conflict happened
